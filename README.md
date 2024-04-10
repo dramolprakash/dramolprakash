@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I'm Dr. Amol Prakash, a doctor turned health informatician, currently a graduate student at Indiana University Indianapolis, USA pursuing my Masters in Health Informatics.
+###I'm Dr. Amol Prakash, a doctor turned health informatician, currently a graduate student at Indiana University Indianapolis, USA pursuing my Masters in Health Informatics.
 <!--
 **dramolprakash/dramolprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

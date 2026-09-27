@@ -1,6 +1,6 @@
 # Hi, I'm Amol 👋
 
-**Physician → Researcher → Techie.** I speak both clinician and code.
+**Physician → Researcher → Techie.** I speak both Medicine and code.
 <p align="center">
   <img src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif" width="400" alt="anime gif">
 </p>
